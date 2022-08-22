@@ -49,4 +49,5 @@ class Solution {
         return $total;
     }
 }
+
 ?>
