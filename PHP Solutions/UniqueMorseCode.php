@@ -37,4 +37,5 @@ class Solution {
         else return array_search($char, $abcLower);
     }
 }
+
 ?>
