@@ -17,4 +17,5 @@ class Solution {
         return strlen($splitted[$splittedCount - 1]);
     }
 }
+
 ?>
