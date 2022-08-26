@@ -1,6 +1,6 @@
 <?php
 
-// LeetCode Problem: Constain Duplicate
+// LeetCode Problem: Contains Duplicate
 // Around 35ms
 
 class Solution {
